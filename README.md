@@ -124,12 +124,4 @@ open index.html
 
 ---
 
-## 📝 Project Description *(for submission — 200–300 words)*
-
-*Scrolling Into the Void* is a five-chapter interactive web experience exploring the psychology of social media addiction. Rather than describing the problem, the site is designed to recreate the feeling — using parallax floating cards to evoke distraction, an algorithmically-flavoured feed of unsettling posts, a sensory-overload notification storm, and a sudden descent into silence. The final chapter uses warm dawn tones and a gentle CTA to offer a moment of intentional disconnection.
-
-Built entirely with HTML, CSS, and vanilla JavaScript, the experience leverages `IntersectionObserver` for scroll-triggered reveals and section tracking, CSS keyframe animations for the glitch effect and floating UI elements, and DOM manipulation for the live notification spawner. Responsive design is achieved through CSS `clamp()` fluid typography and an `auto-fit` grid layout. The result is a cohesive narrative that functions as both a storytelling piece and a reflection on how design patterns shape our digital behaviour.
-
----
-
 *Built with intention. Put the phone down.* 🌅
