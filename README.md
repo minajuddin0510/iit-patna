@@ -10,8 +10,8 @@
 
 | | Link |
 |---|---|
-| 🌐 Live Site | *(https://minajuddin0510.github.io/void-scroll/)* |
-| 💻 Repository | *(github.com/minajuddin0510/void-scroll)* |
+| 🌐 Live Site | *https://minajuddin0510.github.io/void-scroll)* |
+| 💻 Repository | *https://github.com/minajuddin0510/void-scroll* |
 
 ---
 
