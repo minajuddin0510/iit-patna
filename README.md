@@ -10,8 +10,8 @@
 
 | | Link |
 |---|---|
-| 🌐 Live Site | *(add your Vercel / Netlify URL here)* |
-| 💻 Repository | *(github.com/minajuddin0510/)* |
+| 🌐 Live Site | *(https://minajuddin0510.github.io/void-scroll/)* |
+| 💻 Repository | *(github.com/minajuddin0510/void-scroll)* |
 
 ---
 
