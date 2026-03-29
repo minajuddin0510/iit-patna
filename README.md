@@ -123,5 +123,11 @@ open index.html
 - Font loaded via Google Fonts with `display=swap` to prevent layout shift
 
 ---
+📝 Project Description
+
+Void Scroll is an immersive, scroll-driven interactive storytelling experience that explores the psychology of social media addiction through five narrative chapters — Hero, Loop, Overload, Void, and Wake Up. Rather than simply describing the problem, the site is designed to make you feel it. Every design and animation choice mirrors the very dopamine loop it critiques.
+The journey begins with an inviting hero section where floating social UI cards drift through a vibrant gradient sky — familiar, even comforting. As the user scrolls deeper, they enter an algorithmically-curated feed of posts that grow increasingly hollow and repetitive, trapping them in a loop they recognise but cannot name. Section three unleashes a sensory storm of cascading notification popups — randomised, relentless, and deliberately overwhelming — complete with a mute toggle that offers a brief illusion of control. Then, without warning, everything stops. The Void section strips away all colour, sound, and motion, leaving only a blinking cursor and silence. The final chapter bathes the screen in warm dawn tones and invites the user to simply look up.
+Technically, the experience is built with pure HTML, CSS, and vanilla JavaScript — no frameworks, no build tools. Scroll-triggered reveals are handled via the IntersectionObserver API for silky performance. A parallax system drives the floating cards at independent speeds, while CSS keyframe animations power the glitch title effect, the notification spawner, and the full-screen breathing overlay triggered by the final CTA. Responsive design is achieved through clamp() fluid typography and a CSS Grid auto-fit layout that collapses gracefully from desktop to mobile.
+The result is a piece that challenges users to reflect on their relationship with their screens — by putting them through the experience one more time, deliberately, and then asking them to stop.
 
 *Built with intention. Put the phone down.* 🌅
